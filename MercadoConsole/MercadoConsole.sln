@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MercadoConsole", "MercadoConsole\MercadoConsole.csproj", "{01C3E23C-D177-4CD9-9653-E55ECE6B432A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01C3E23C-D177-4CD9-9653-E55ECE6B432A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C3E23C-D177-4CD9-9653-E55ECE6B432A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C3E23C-D177-4CD9-9653-E55ECE6B432A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C3E23C-D177-4CD9-9653-E55ECE6B432A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62836F63-64A0-4A6F-9FAB-FC037D7BE7EE}
+	EndGlobalSection
+EndGlobal

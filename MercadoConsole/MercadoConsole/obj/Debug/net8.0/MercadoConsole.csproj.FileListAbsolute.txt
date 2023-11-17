@@ -1,0 +1,14 @@
+D:\C#\MercadoConsole\MercadoConsole\bin\Debug\net8.0\MercadoConsole.exe
+D:\C#\MercadoConsole\MercadoConsole\bin\Debug\net8.0\MercadoConsole.deps.json
+D:\C#\MercadoConsole\MercadoConsole\bin\Debug\net8.0\MercadoConsole.runtimeconfig.json
+D:\C#\MercadoConsole\MercadoConsole\bin\Debug\net8.0\MercadoConsole.dll
+D:\C#\MercadoConsole\MercadoConsole\bin\Debug\net8.0\MercadoConsole.pdb
+D:\C#\MercadoConsole\MercadoConsole\obj\Debug\net8.0\MercadoConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MercadoConsole\MercadoConsole\obj\Debug\net8.0\MercadoConsole.AssemblyInfoInputs.cache
+D:\C#\MercadoConsole\MercadoConsole\obj\Debug\net8.0\MercadoConsole.AssemblyInfo.cs
+D:\C#\MercadoConsole\MercadoConsole\obj\Debug\net8.0\MercadoConsole.csproj.CoreCompileInputs.cache
+D:\C#\MercadoConsole\MercadoConsole\obj\Debug\net8.0\MercadoConsole.dll
+D:\C#\MercadoConsole\MercadoConsole\obj\Debug\net8.0\refint\MercadoConsole.dll
+D:\C#\MercadoConsole\MercadoConsole\obj\Debug\net8.0\MercadoConsole.pdb
+D:\C#\MercadoConsole\MercadoConsole\obj\Debug\net8.0\MercadoConsole.genruntimeconfig.cache
+D:\C#\MercadoConsole\MercadoConsole\obj\Debug\net8.0\ref\MercadoConsole.dll
